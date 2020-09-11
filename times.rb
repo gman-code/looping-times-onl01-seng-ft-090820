@@ -1,7 +1,7 @@
 def using_times
 	loop do
 	puts "Wingardium Leviosa"  
-	 <=7
+	 =7
 end
 
 
