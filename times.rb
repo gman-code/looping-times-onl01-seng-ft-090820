@@ -1,5 +1,5 @@
 def using_times
-	loop
+	loop 
 	puts "Wingardium Leviosa"  
 end
 
